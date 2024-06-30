@@ -15,6 +15,7 @@ Secured 4th Place at the international technical event Impetus and Concepts with
 IEEE Leadership and Event Coordination:
 
 Actively contributed to the IEEE community by organizing and conducting various technical events and competitions, enhancing my leadership and event management skills.
+
 Hackathon Achievements:
 
 Excelled in multiple hackathons, securing top positions in categories related to AI and machine learning. These experiences have honed my problem-solving abilities and provided opportunities to work on real-world challenges.
@@ -23,10 +24,10 @@ Community Engagement through Tech Talks:
 
 Delivered tech talks and workshops on emerging technologies, including AI, ML, and blockchain, at various institutions and tech meetups, inspiring and educating fellow tech enthusiasts.
 
-
 🎓 Education
 
 Bachelor of Engineering in Information Technology
+
 Pune Institute of Computer Technology, University of Pune
 2022 - 2026
 GPA: 8.77/10
@@ -47,35 +48,22 @@ Created a chatbot using Python and Streamlit to provide financial insights and p
 
 Advanced Vehicle Detection System with OCR and Behavioral Analysis:
 
-Building a comprehensive system using TensorFlow and EasyOCR for vehicle recognition and license plate reading. The system includes features like speed detection and lane splitting analysis, real-time monitoring.
-
+Building a comprehensive system using TensorFlow and EasyOCR for vehicle recognition and license plate reading. The system includes features like speed detection and lane splitting analysis, and real-time monitoring.
 
 🛠️ Technical Skills
 
-
 Programming Languages: Python, Java, C, C++, SQL, HTML, JSON, Django, CSS
-
 ML/AI Frameworks: TensorFlow, PyTorch, Scikit-learn, OpenCV, Keras, Hugging Face, Seaborn, Langchain, Streamlit, FastAPI, YOLO
-
 Data Processing & Analysis: Pandas, NumPy, Spark, Hadoop
-
 Cloud Platforms: Google Cloud Platform (GCP), Microsoft Azure
-
 DevOps & MLOps Tools: Docker, Git, GitHub, MLflow
-
 Databases: MySQL, MongoDB
-
 Other Tools: Jupyter Notebooks, VSCode, Jira, Confluence
-
 
 📧 Let's Connect
 
 I'm passionate about leveraging technology to solve real-world problems and am eager to collaborate on projects that explore the frontiers of AI, machine learning, and data science. Let's connect and innovate together!
 
 Email: ribhavsoni31@gmail.com
-
 LinkedIn: Ribhav Soni
-
 GitHub: ribhav31
-
-Feel free to explore my projects and repositories to see my work in action. I look forward to connecting and collaborating with you!
