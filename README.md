@@ -54,12 +54,19 @@ Builing a comprehensive system using TensorFlow and EasyOCR for vehicle recognit
 
 
 Programming Languages: Python, Java, C, C++, SQL, HTML, JSON, Django, CSS
+
 ML/AI Frameworks: TensorFlow, PyTorch, Scikit-learn, OpenCV, Keras, Hugging Face, Seaborn, Langchain, Streamlit, FastAPI, YOLO
+
 Data Processing & Analysis: Pandas, NumPy, Spark, Hadoop
+
 Cloud Platforms: Google Cloud Platform (GCP), Microsoft Azure
+
 DevOps & MLOps Tools: Docker, Git, GitHub, MLflow
+
 Databases: MySQL, MongoDB
+
 Other Tools: Jupyter Notebooks, VSCode, Jira, Confluence
+
 
 📧 Let's Connect
 
