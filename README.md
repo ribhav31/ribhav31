@@ -47,8 +47,12 @@ Created a chatbot using Python and Streamlit to provide financial insights and p
 
 Advanced Vehicle Detection System with OCR and Behavioral Analysis:
 
-Built a comprehensive system using TensorFlow and EasyOCR for vehicle recognition and license plate reading. The system includes features like speed detection and lane splitting analysis, deployed with Docker for scalable real-time monitoring.
+Builing a comprehensive system using TensorFlow and EasyOCR for vehicle recognition and license plate reading. The system includes features like speed detection and lane splitting analysis, real-time monitoring.
+
+
 🛠️ Technical Skills
+
+
 Programming Languages: Python, Java, C, C++, SQL, HTML, JSON, Django, CSS
 ML/AI Frameworks: TensorFlow, PyTorch, Scikit-learn, OpenCV, Keras, Hugging Face, Seaborn, Langchain, Streamlit, FastAPI, YOLO
 Data Processing & Analysis: Pandas, NumPy, Spark, Hadoop
