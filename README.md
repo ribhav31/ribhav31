@@ -73,7 +73,9 @@ Other Tools: Jupyter Notebooks, VSCode, Jira, Confluence
 I'm passionate about leveraging technology to solve real-world problems and am eager to collaborate on projects that explore the frontiers of AI, machine learning, and data science. Let's connect and innovate together!
 
 Email: ribhavsoni31@gmail.com
+
 LinkedIn: Ribhav Soni
+
 GitHub: ribhav31
-Google Scholar: Ribhav Soni
+
 Feel free to explore my projects and repositories to see my work in action. I look forward to connecting and collaborating with you!
